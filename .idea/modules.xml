@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Java/AbstractFactoryDP/AbstractFactoryDP.iml" filepath="$PROJECT_DIR$/Java/AbstractFactoryDP/AbstractFactoryDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/BuilderDP/BuilderDP.iml" filepath="$PROJECT_DIR$/Java/BuilderDP/BuilderDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Design-Patterns.iml" filepath="$PROJECT_DIR$/.idea/Design-Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/FactoryDP/FactoryDP.iml" filepath="$PROJECT_DIR$/Java/FactoryDP/FactoryDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/PrototypeDP/PrototypeDP.iml" filepath="$PROJECT_DIR$/Java/PrototypeDP/PrototypeDP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java/SingletonDP/SingletonDP.iml" filepath="$PROJECT_DIR$/Java/SingletonDP/SingletonDP.iml" />
+    </modules>
+  </component>
+</project>
